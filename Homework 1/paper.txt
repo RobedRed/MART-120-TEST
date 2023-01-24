@@ -1,0 +1,2 @@
+A GUI (Graphical User Interface) is a way for users to interact with a system/program with graphical elements such as windows, buttons, and menus.
+A CLI (Command Line Interface) is a way for users to interact with a system/program with commands, which is another name for code.
